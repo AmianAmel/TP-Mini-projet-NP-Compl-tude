@@ -1,5 +1,5 @@
 # TP-Mini-projet-NP-Compl-tude
-##Objectif:
+## Objectif:
 En informatique, les problèmes complexes tels que les problèmes NP-complets 
 présentent un sérieux handicape quant à leur traitement par les machines actuelles. Les 
 méthodes complètes (exactes) permettent de calculer la solution si celle-ci existe, et prouvent
